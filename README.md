@@ -1,0 +1,1 @@
+“This page contains the data, computational code, figures, and tables used in the paper ‘Stylometric Assessment of the Stylistic Imitation of LLMs: How Faithfully Do Models Reproduce Intra-Authorial Stylistic Dynamics?’.”
